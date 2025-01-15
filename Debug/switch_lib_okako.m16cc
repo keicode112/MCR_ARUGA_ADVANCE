@@ -1,0 +1,8 @@
+-lang=c
+-I"..\..\..\common_r8c38a"
+-c
+-finfo
+-dir "D:\work\denki_club\prog\hew\r8c\2022\okako_advance_2022\advanced\okako_advanced_tk\okako_advanced\Debug"
+-silent
+-R8CE
+"D:\work\denki_club\prog\hew\r8c\2022\okako_advance_2022\advanced\okako_advanced_tk\okako_advanced\switch_lib_okako.c"

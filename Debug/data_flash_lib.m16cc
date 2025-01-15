@@ -1,0 +1,8 @@
+-lang=c
+-I"..\..\..\common_r8c38a"
+-c
+-finfo
+-dir "C:\mcr\okako_advance_2023\advanced\okako_advanced\okako_advanced\Debug"
+-silent
+-R8CE
+"C:\mcr\okako_advance_2023\advanced\okako_advanced\okako_advanced\data_flash_lib.c"

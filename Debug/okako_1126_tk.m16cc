@@ -1,0 +1,8 @@
+-lang=c
+-I"..\..\..\common_r8c38a"
+-c
+-finfo
+-dir "E:\denki_club\prog\hew\r8c\2022\okako_advance_2022\advanced\anaservo_ver4_38a_kai\Debug"
+-silent
+-R8CE
+"E:\denki_club\prog\hew\r8c\2022\okako_advance_2022\advanced\anaservo_ver4_38a_kai\okako_1126_tk.c"
